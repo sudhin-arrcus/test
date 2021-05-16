@@ -13,3 +13,5 @@ This is the second commit on branch named as feature
 working on it.
 
 today putting a new line to see branch is working fine....
+This line is in feature to handle mege conflicts
+
