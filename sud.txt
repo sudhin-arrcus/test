@@ -11,3 +11,5 @@ I am committing new line to the feature branch but it is not in master
 This is the second commit on branch named as feature
 
 working on it.
+
+today putting a new line to see branch is working fine....
