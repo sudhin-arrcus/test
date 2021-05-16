@@ -4,6 +4,9 @@
 This is the second edition of the file.
 
 
+working on it.
+=======
+
 creating a branch to write the code
 
 I am committing new line to the feature branch but it is not in master
@@ -13,5 +16,7 @@ This is the second commit on branch named as feature
 working on it.
 
 today putting a new line to see branch is working fine....
+
 This line is in feature to handle mege conflicts
 
+to work on merge conflict in main bbranch
