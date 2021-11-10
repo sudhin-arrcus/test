@@ -20,3 +20,7 @@ today putting a new line to see branch is working fine....
 This line is in feature to handle mege conflicts
 
 to work on merge conflict in main bbranch
+
+New line added in feature to check.
+
+hello after a long time
